@@ -102,7 +102,19 @@ Paper beats Rock
 
 📸 Screenshots
 
-(Add screenshots here after uploading images to the repo)
+###Start Game
+
+<img src="RPS1.png" width="400">
+
+###Game play
+
+<img src="RPS2.png" width="400">
+
+###Score update
+
+<img src="RPS3.png" width="400">
+
+
 
 
 ---
